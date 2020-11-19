@@ -1,0 +1,18 @@
+{
+  "name": "culinaryops",
+  "version": "1.0.0",
+  "description": "a culinary tool",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:yezabuashour/culinaryops",
+  "author": "Yez Abuashour",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
